@@ -23,18 +23,18 @@
 구글 코랩 환경에서 파이썬 언어를 이용합니다.
 
 ## 시각화 결과
-<div style="margin-bottom:30px">
+<div style="margin-bottom:50px">
   <img src="./images/시각화1.png" width="500" />
 </div>
 
-<div style="margin-bottom:30px">
+<div style="margin-bottom:50px">
   <img src="./images/시각화2.png" width="500" />
 </div>
 
-<div style="margin-bottom:30px">
+<div style="margin-bottom:50px">
   <img src="./images/시각화3.png" width="500" />
 </div>
 
-<div style="margin-bottom:30px">
+<div style="margin-bottom:50px">
   <img src="./images/시각화4.png" width="500" />
 </div>
